@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Python](https://github.com/YashShreshthaRaj404/Python-Programming-language-)
 
-- 🌱 I’m currently learning **Python course**
+- 🌱 I’m currently learning **Python Course**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YashShreshthaRaj404/Python-Programming-language-](https://github.com/YashShreshthaRaj404/Python-Programming-language-)
 
