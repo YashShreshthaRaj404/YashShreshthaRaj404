@@ -39,3 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashshreshtharaj404&show_icons=true&locale=en" alt="yashshreshtharaj404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashshreshtharaj404&" alt="yashshreshtharaj404" /></p>
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
