@@ -1,4 +1,4 @@
-![logo](https://github.com/YashShreshthaRaj404/YashShreshthaRaj404/blob/main/Black%20and%20White%20Simple%20Minimalist%20Futuristic%20Gaming%20YouTube%20Banner_20240518_181004_0000.png)
+![logo](https://github.com/YashShreshthaRaj404/YashShreshthaRaj404/blob/main/Dark%20Blue%20Futuristic%20How%20Artificial%20Intelligence%20Youtube%20Thumbnail_20240519_131621_0000.png)
 <h1 align="center">Hi 👋, I'm Yash Shreshtha Raj</h1>
 <h3 align="center">A passionate fronted Software developer from India</h3>
 
