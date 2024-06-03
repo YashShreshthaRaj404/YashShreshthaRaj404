@@ -42,4 +42,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashshreshtharaj404&show_icons=true&locale=en" alt="yashshreshtharaj404" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashshreshtharaj404&" alt="yashshreshtharaj404" /></p>
 
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
