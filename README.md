@@ -1,6 +1,6 @@
 ![logo](https://github.com/YashShreshthaRaj404/YashShreshthaRaj404/blob/main/Dark%20Blue%20Futuristic%20How%20Artificial%20Intelligence%20Youtube%20Thumbnail_20240519_131621_0000.png)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Heeyyy+👋🏻+There+!!!!&color=white" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=90&duration=3000&lines=Heeyy+👋🏻+There+!!!+I'm+Yash+Shreshtha+Raj&color=white" />
 </h1>
 <h3 align="center">A passionate fronted Software developer from India</h3>
 
