@@ -46,6 +46,12 @@
 [![ATHARVA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashShreshthaRaj404&theme=react-dark&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
+<p align="center"> 
+  You can connect with me on <a href="https://www.linkedin.com/in/yash-shreshtha-raj-a941252a6?" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedIn" height="20" width="20" /></a>
+  <!-- <a href="https://www.behance.net/YashShreshthaRaj404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="Elysian01" height="20" width="20" /></a>
+   <a href="https://dribbble.com/Elysian01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="Elysian01" height="20" width="20" /></a> -->  
+</p>
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
