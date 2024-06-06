@@ -46,6 +46,8 @@
 [![ATHARVA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashShreshthaRaj404&theme=react-dark&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+ 
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
